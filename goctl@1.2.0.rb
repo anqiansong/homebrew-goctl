@@ -5,7 +5,7 @@ class Goctl < Formula
   desc "goctl desc"
   homepage "https://github.com/anqiansong/go-zero"
   url "https://github.com/anqiansong/go-zero/releases/download/v1.2.0/goctl.tar.xz"
-  version "1.2.0"
+  version "1.3.2"
   sha256 "609a9956a1030354e891099c4b98430e23e5067e9e755aa3a4653b29dc0c4acd"
   license "MIT"
 
