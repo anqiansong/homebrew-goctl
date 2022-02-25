@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Goctl < Formula
+class GoctlAT120 < Formula
   desc "goctl desc"
   homepage "https://github.com/anqiansong/go-zero"
   url "https://github.com/anqiansong/go-zero/releases/download/v1.2.0/goctl.tar.xz"
